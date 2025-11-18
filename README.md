@@ -6,6 +6,7 @@ It includes simple authentication : **sign-up**, **sign-in**, and a profile page
 ## Project Setup
 - Python 3.11+
 - Django
+- Django (will be added to requirements.txt)
 - Virtual environment: `.venv/`
 
 ## 📚 For Students
