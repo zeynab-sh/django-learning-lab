@@ -2,10 +2,18 @@
 
 This project is the starting point for building a basic user system with Django + SQLite
 It includes simple authentication : **sign-up**, **sign-in**, and a profile page.
+
 ## Project Setup
 - Python 3.11+
-- Django 
+- Django
 - Virtual environment: `.venv/`
+
+## 📚 For Students
+
+**New to this project?**
+- 📖 **Git Workflow Guide**: See [GIT-WORKFLOW.md](GIT-WORKFLOW.md) for branch naming, commit messages, and PR workflow
+- 📋 **Task Documents**: Check `docs/` folder for phase-by-phase instructions
+- 🎯 **Project Guide**: See [CLAUDE.md](CLAUDE.md) for architecture and development commands
 
 ## Installation 
 - Terminal:
